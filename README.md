@@ -1,6 +1,4 @@
-I am a young engineering student with the ambition to work on professional projects to develop my own skills and learn new ones.
-
-I work in a startup, IZI Record, in the development team.
+I study Computing Engineering and I work in a startup, IZI Record, in the development team.
 
 I'm a self-taught Linux enthusiast. Currently trying to learn Rust.
 I've been taught C, C#, Java and SQL.
