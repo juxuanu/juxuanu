@@ -1,5 +1,3 @@
-I study Computing Engineering and I work in a startup, IZI Record, in the development team.
-
 I'm a self-taught Linux enthusiast. Currently trying to learn Rust.
 I've been taught C, C#, Java and SQL.
 Other tools I use: vim, VSCode, git and many Linux system utilities.
