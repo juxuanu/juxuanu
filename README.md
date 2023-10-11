@@ -1,4 +1,4 @@
-I'm a full-stack developer that studies computer science student who works at the same time.
+I'm a full-stack developer that studies computer science at the same time.
 
 I'm also a self-taught Linux enthusiast. I like low-level programming, but I currently use Typescript professionally. I also try to be up-to-date with new tech, such as Rust and many OSS projects.
 Other tools I use: neovim, VSCode, Jetbrians IDEs, git and many Linux system utilities.
